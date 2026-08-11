@@ -14,7 +14,8 @@ The program asks the user for basic personal information such as their name, age
 
 This project was created as part of learning and practicing **Python fundamentals**.
 
----
+---<img width="614" height="432" alt="program-output" src="https://github.com/user-attachments/assets/8a27323a-fa2e-475b-b31c-9f95b6dbf55f" />
+
 
 ## ✨ Features
 
@@ -67,4 +68,4 @@ birth_year = current_year - age
 
 ## 🖥️ Example Output
 
-![img alt](https://github.com/tanmaypatel0404-lang/Fundamental-Booster-Project-1-/blob/4fd92e905e5983e758fca572f5f61d18c73202c8/program-output.png)
+![image alt](https://github.com/tanmaypatel0404-lang/Fundamental-Booster-Project-1-/blob/4fd92e905e5983e758fca572f5f61d18c73202c8/program-output.png)
