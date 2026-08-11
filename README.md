@@ -67,6 +67,4 @@ birth_year = current_year - age
 
 ## 🖥️ Example Output
 
-Here is an example of the program running in the Python console:
-
 ![img alt](https://github.com/tanmaypatel0404-lang/Fundamental-Booster-Project-1-/blob/4fd92e905e5983e758fca572f5f61d18c73202c8/program-output.png)
