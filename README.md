@@ -63,4 +63,7 @@ birth_year = current_year - age
 ## 🖥️ Example Output
 
 ---<img width="614" height="432" alt="program-output" src="https://github.com/user-attachments/assets/8a27323a-fa2e-475b-b31c-9f95b6dbf55f" />
+
+## 🎥 Project Demo
+https://github.com/user-attachments/assets/2c16abf8-4011-4c7f-a4de-280d2a2b2ba6
 ```python
