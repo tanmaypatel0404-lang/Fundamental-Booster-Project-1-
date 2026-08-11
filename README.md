@@ -63,3 +63,9 @@ The program estimates the user's birth year using:
 
 ```python
 birth_year = current_year - age
+
+## 🖥️ Example Output
+
+Here is an example of the program running in the Python console:
+
+![Program Output](program-output.png)
