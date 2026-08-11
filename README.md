@@ -53,6 +53,9 @@ This project demonstrates several important Python fundamentals:
 
 ---
 
+## 🖥️ Example Output
+
+---<img width="614" height="432" alt="program-output" src="https://github.com/user-attachments/assets/8a27323a-fa2e-475b-b31c-9f95b6dbf55f" />
 ## 🧮 Calculations Used
 
 ### Estimated Birth Year
